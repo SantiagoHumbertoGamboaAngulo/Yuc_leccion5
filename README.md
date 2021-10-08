@@ -23,7 +23,9 @@
                 </ol>
             </div>
             <div style="background-color: yellow; width: 33.3%; float: left; height: 500px;">
-                <img style="width:100%; height: 500px;" src="/death-note.jpg" alt="">
+            <div style="background-color: coral; width: 100%; height: 33.3%;"></div>
+                <div style="background-color:crimson; width: 100%; height: 33.3%;"></div>
+                <div style="background-color:cyan; width: 100%; height: 33.3%;"></div>
             </div>
             <div style="background-color: purple; width: 33.3%; float: left; height: 500px;">
                 
